@@ -1,7 +1,7 @@
-# 👋 Hello World! I'm Niek Geerligs
+#I'm Niek Geerligs
 
 ## 🌐 About Me
-I'm a 16-year-old student programmer based in Hengelo, currently studying at ROC van Twente. Passionate about coding and technology, I love exploring new languages and frameworks to build exciting projects.
+I'm a 17-year-old student programmer based in Hengelo, currently studying at ROC van Twente. Passionate about coding and technology, I love exploring new languages and frameworks to build exciting projects.
 
 ## 🚀 My Skills
 - **Programming Languages:** [Javascript, HTML, CSS, PHP, SQL] 
@@ -23,7 +23,7 @@ Feel free to explore them and provide feedback!
   - Expected Graduation: 2027
 
 ## 🌱 What I'm Learning
-I'm currently diving into [C#, more PHP and PDO]. Excited to expand my skill set and take on new challenges!
+I'm currently diving into c#. Excited to expand my skill set and take on new challenges!
 
 ## 📫 Let's Connect!
 - [LinkedIn] Niek Geerligs
