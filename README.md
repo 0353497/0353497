@@ -1,4 +1,4 @@
-#I'm Niek Geerligs
+# I'm Niek Geerligs
 
 ## 🌐 About Me
 I'm a 17-year-old student programmer based in Hengelo, currently studying at ROC van Twente. Passionate about coding and technology, I love exploring new languages and frameworks to build exciting projects.
