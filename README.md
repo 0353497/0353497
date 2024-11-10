@@ -4,7 +4,7 @@
 I'm a 17-year-old student programmer based in Hengelo, currently studying at ROC van Twente. Passionate about coding and technology, I love exploring new languages and frameworks to build exciting projects.
 
 ## 🚀 My Skills
-- **Programming Languages:** [Javascript, HTML, CSS, PHP, SQL] 
+- **Programming Languages:** [Javascript, HTML, CSS, PHP, SQL, C#] 
 - **Web Development:** [Bootstrap]
 - **Databases:** [MYSQL]
 - **Other Skills:** [SCRUM]
